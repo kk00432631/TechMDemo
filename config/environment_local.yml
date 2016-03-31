@@ -1,0 +1,5 @@
+default_csl_url: http://localhost:8080
+axway_csl_url: http://localhost:8080
+account_details_csl_url: http://10.23.153.25:8185
+account_summary_details_csl_url: http://10.23.153.25:8185
+profile_details_csl_url: http://10.23.153.25:8186

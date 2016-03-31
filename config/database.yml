@@ -1,0 +1,6 @@
+development: 
+  adapter: oracle_enhanced
+  database: //10.206.66.45:1523/SCBKEADC
+  username: afropay
+  password: Welcome1234
+  pool: 5
