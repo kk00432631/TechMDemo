@@ -1,0 +1,5 @@
+default: --require features
+staging: --tags ~@wip --require features penv=staging -f html -o report/cucumber_report.html
+wip: --tags @wip --require features
+technical: --tags @technical --require features
+country_spec: --tags @country_spec --require features
